@@ -1,2 +1,2 @@
 # microservices_with_kotlin
-hands - on
+api service with kotlin, maven
